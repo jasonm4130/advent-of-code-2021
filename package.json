@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jasonm4130/advent-of-code-2021#readme",
   "devDependencies": {
+    "args": "^5.0.3",
     "eslint": "^8.3.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.3"
